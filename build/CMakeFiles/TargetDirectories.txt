@@ -1,0 +1,8 @@
+/Users/chocolate/Documents/Web_App_Dictionary/build/CMakeFiles/install/local.dir
+/Users/chocolate/Documents/Web_App_Dictionary/build/CMakeFiles/install/strip.dir
+/Users/chocolate/Documents/Web_App_Dictionary/build/CMakeFiles/install.dir
+/Users/chocolate/Documents/Web_App_Dictionary/build/CMakeFiles/rebuild_cache.dir
+/Users/chocolate/Documents/Web_App_Dictionary/build/CMakeFiles/edit_cache.dir
+/Users/chocolate/Documents/Web_App_Dictionary/build/CMakeFiles/SuperDictionary.dir
+/Users/chocolate/Documents/Web_App_Dictionary/build/CMakeFiles/list_install_components.dir
+/Users/chocolate/Documents/Web_App_Dictionary/build/CMakeFiles/mongoose.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chocolate/Documents/Web_App_Dictionary/dictionary.cpp
+algorithm
+-
+iostream
+-
+map
+-
+stdio.h
+-
+string.h
+-
+vector
+-
+mongoose.h
+/Users/chocolate/Documents/Web_App_Dictionary/mongoose.h
+
+/Users/chocolate/Documents/Web_App_Dictionary/mongoose.h
+stdio.h
+-
+stddef.h
+-
+
