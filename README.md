@@ -3,6 +3,8 @@ Web App - Customize Dictionary
 
 How to build and run the web app:
 
+1:	open terminal and clone this repository
+
 1: 	open terminal and go to "SuperDictionary" directory.
 	for example "cd SuperDictionary"
 
