@@ -1,25 +1,25 @@
 # SuperDictionary
 Web App - Customize Dictionary
 
+Dependency: install cmake from https://cmake.org/
+
 How to build and run the web app:
 
-1:	open terminal and clone this repository
+1:	open terminal and clone this repository "git clone https://github.com/MrIceCreamMan/Web_App_Dictionary.git"
 
-1: 	open terminal and go to "SuperDictionary" directory.
-	for example "cd SuperDictionary"
+2: 	go to this repository directory "cd Web_App_Dictionary"
 
-2:	make a new clean directory, for example "mkdir build"
+3:	make a new clean directory"mkdir build"
 
-3:	go to the directory you just created. (with my example, type "cd build")
+4:	go to the directory you just created"cd build"
 
-4:	use cmake to generate make file with command "cmake -DMAIN=ON .."
+5:	use cmake to generate make file with command "cmake -DMAIN=ON .."
 
-5:	use make to compile the executable file. Just type "make"
+6:	use make to compile the executable file. Just type "make"
 
-6:	start the server by type "./SuperDictionary"
+7:	start the server by type "./SuperDictionary"
 
-7:	open your browser and type the url "http://www.localhost:8080"
-	and now you can use the web app
+8:	open your browser and type the url "http://www.localhost:8080", and now you can use the web app
 
 
 
